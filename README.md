@@ -5,7 +5,6 @@ This project provides implementations for:
 - Crack density extraction
 - Dielectric loss processing
 - Capacitance analysis
-- Image-based bitstream generation
 - CNN classification
 
 ## Installation
