@@ -2,10 +2,10 @@
 
 This project provides implementations for:
 
-- Crack density extraction
-- Dielectric loss processing
-- Capacitance processing
-- Optical Signals processing
+- crack density extraction
+- dielectric loss processing
+- capacitance processing
+- optical Signals processing
 - CNN classification
 
 ## Installation
